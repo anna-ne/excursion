@@ -23,6 +23,13 @@ body{
     color: gray;
 }
 
+/*FOOTER*/
+
+.footer--copyright{
+    text-align: right;
+    color: gray;
+}
+
 /*LINKS*/
 
 .link--cta{
